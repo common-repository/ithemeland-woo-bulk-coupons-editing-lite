@@ -1,0 +1,153 @@
+#wccbel-activation-info {
+    width: 100%;
+    display: block;
+    position: relative;
+    background: #f6f6f6;
+    font-size: 11pt;
+    padding: 30px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    overflow: hidden;
+}
+
+#wccbel-activation-info h1 {
+    line-height: 30px;
+    font-size: 14pt;
+    margin-bottom: 40px;
+}
+
+#wccbel-activation-info .wccbel-activation-status {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block !important;
+}
+
+#wccbel-activation-info .wccbel-activation-status-active {
+    border-top: 50px solid #00a651;
+    border-right: 50px solid #00a651;
+    border-bottom: 50px solid transparent;
+    border-left: 50px solid transparent;
+}
+
+#wccbel-activation-info .wccbel-activation-status-deactivated {
+    border-top: 50px solid #e7a30f;
+    border-right: 50px solid #e7a30f;
+    border-bottom: 50px solid transparent;
+    border-left: 50px solid transparent;
+}
+
+#wccbel-activation-info .wccbel-activation-status-active span,
+#wccbel-activation-info .wccbel-activation-status-deactivated span {
+    width: 32px;
+    height: 32px;
+    font-size: 32px;
+    position: absolute;
+    top: -35px;
+    right: -35px;
+    color: #fff;
+}
+
+#wccbel-activation-info .wccbel-activation-renew {
+    width: 100%;
+    float: right;
+    margin: 0;
+}
+
+#wccbel-activation-info .wccbel-activation-renew button {
+    float: right;
+    margin: 0 !important;
+}
+
+#wccbel-activation-info h1 form {
+    float: right;
+}
+
+#wccbel-activation-info div {
+    width: 100%;
+    display: inline-table;
+    margin: 0 0 10px 0;
+}
+
+#wccbel-activation-info .wccbel-activation-info-half {
+    display: inline-table;
+    width: 100%;
+}
+
+#wccbel-activation-info .wccbel-activation-info-half div {
+    float: left;
+    width: 50%;
+}
+
+#wccbel-activation-info div span {
+    width: 150px;
+    float: left;
+    margin-bottom: 15px;
+}
+
+#wccbel-activation-form {
+    display: inline-table;
+    width: 100%;
+    padding: 20px;
+    border: 1px #fff solid;
+    font-size: 13px;
+    margin: 5px 0 40px 0;
+    background-color: #fff;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+#wccbel-activation-form h3 {
+    padding: 0 0 20px 0;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+#wccbel-activation-form label {
+    min-width: 17%;
+    height: 45px;
+    font-weight: bold;
+    float: left;
+    line-height: 45px;
+}
+
+#wccbel-activation-form input[type=text],
+#wccbel-activation-form input[type=number],
+#wccbel-activation-form select,
+#wccbel-activation-form input[type=email] {
+    width: 50%;
+    max-width: 50%;
+    height: 45px !important;
+    font-weight: bold;
+    float: left;
+}
+
+#wccbel-activation-form input[type=checkbox] {
+    margin-top: 15px;
+    float: left;
+}
+
+#wccbel-activation-form span {
+    float: left;
+    margin-left: 10px;
+    font: italic 16px Calibri, Tahoma;
+    line-height: 45px;
+}
+
+#wccbel-activation-form button {
+    float: right;
+    padding: 0 23px;
+}
+
+.wccbel-activation-field {
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}

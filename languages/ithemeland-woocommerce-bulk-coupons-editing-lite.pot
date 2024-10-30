@@ -1,0 +1,1338 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: iThemeland WooCommerce Bulk Coupons Editing Lite\n"
+"POT-Creation-Date: 2023-06-07 18:32+0330\n"
+"PO-Revision-Date: 2023-06-07 18:32+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ithemeland-woocommerce-bulk-coupons-editing-lite.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/bootstrap/WCCBEL.php:57
+msgid "iT Woo Coupons"
+msgstr ""
+
+#: classes/bootstrap/WCCBEL.php:99
+msgid "Please select one coupon"
+msgstr ""
+
+#: classes/controllers/WCCBEL_Ajax.php:476
+#: classes/controllers/WCCBEL_Ajax.php:498
+#: classes/controllers/WCCBEL_Ajax.php:511
+#: classes/controllers/WCCBEL_Ajax.php:558
+#: classes/controllers/WCCBEL_Ajax.php:704
+#: classes/controllers/WCCBEL_Post.php:73
+#: classes/controllers/WCCBEL_Post.php:140
+#: classes/controllers/WCCBEL_Post.php:264
+#: classes/controllers/WCCBEL_Post.php:300 classes/helpers/Lang_Helper.php:10
+msgid "Success !"
+msgstr ""
+
+#: classes/controllers/WCCBEL_Ajax.php:554
+msgid "Error !"
+msgstr ""
+
+#: classes/controllers/WCCBEL_Post.php:256
+msgid "Error ! Please Try again"
+msgstr ""
+
+#: classes/controllers/WCCBEL_Post.php:303
+msgid "System Error !"
+msgstr ""
+
+#: classes/controllers/WCCBEL_Post.php:307
+msgid "Connection Timeout! Please Try Again"
+msgstr ""
+
+#: classes/controllers/Woo_Coupon_Controller.php:48
+msgid "Ithemeland Woocommerce Bulk Coupons Editing Lite"
+msgstr ""
+
+#: classes/controllers/Woo_Coupon_Controller.php:117
+msgid "WooCommerce Bulk Coupons Editing Pro"
+msgstr ""
+
+#: classes/helpers/Generator.php:73 classes/repositories/Meta_Field.php:59
+#: views/activation/main.php:32 views/history/main.php:25
+#: views/history/main.php:36
+msgid "Select"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:10
+msgid "Automotive"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:11
+msgid "AdTech and AdNetwork"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:12
+msgid "Agency"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:13
+msgid "B2B Software"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:14
+msgid "B2C Internet Services"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:15
+msgid "Classifieds"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:16
+msgid "Consulting and Market Research"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:17
+msgid "CPG"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:18
+msgid "Education"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:19
+msgid "Education (Student)"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:20
+msgid "Equity Research"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:21
+msgid "Financial Services"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:22
+msgid "Gambling and Gaming"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:23
+msgid "Hedge Funds and Asset Management"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:24
+msgid "Investment Banking"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:25
+msgid "Logistics and Shipping"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:26
+msgid "Payments"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:27
+msgid "Pharma and Healthcare"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:28
+msgid "Private Equity and Venture Capital"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:29
+msgid "Publishers and Media"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:30
+msgid "Public Sector, Non Profit, Fraud and Compliance"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:31
+msgid "Retail and eCommerce"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:32
+msgid "Telecom"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:33
+msgid "Travel"
+msgstr ""
+
+#: classes/helpers/Industry_Helper.php:34
+msgid "Other"
+msgstr ""
+
+#: classes/helpers/Operator.php:10 views/navigation/buttons.php:41
+msgid "New"
+msgstr ""
+
+#: classes/helpers/Operator.php:11 classes/helpers/Operator.php:29
+msgid "Append"
+msgstr ""
+
+#: classes/helpers/Operator.php:12
+msgid "Prepend"
+msgstr ""
+
+#: classes/helpers/Operator.php:13 classes/helpers/Operator.php:31
+#: views/column_manager/main.php:50 views/history/history_items.php:58
+#: views/modals/filter_profile_item.php:18 views/navigation/buttons.php:47
+msgid "Delete"
+msgstr ""
+
+#: classes/helpers/Operator.php:14 classes/helpers/Operator.php:30
+msgid "Replace"
+msgstr ""
+
+#: classes/helpers/Operator.php:38
+msgid "Set New"
+msgstr ""
+
+#: classes/helpers/Operator.php:39
+msgid "Clear Value"
+msgstr ""
+
+#: classes/helpers/Operator.php:40
+msgid "Formula"
+msgstr ""
+
+#: classes/helpers/Operator.php:41
+msgid "Increase by value"
+msgstr ""
+
+#: classes/helpers/Operator.php:42
+msgid "Decrease by value"
+msgstr ""
+
+#: classes/helpers/Operator.php:43
+msgid "Increase by %"
+msgstr ""
+
+#: classes/helpers/Operator.php:44
+msgid "Decrease by %"
+msgstr ""
+
+#: classes/helpers/Operator.php:51
+msgid "Increase by value (From sale)"
+msgstr ""
+
+#: classes/helpers/Operator.php:52
+msgid "Increase by % (From sale)"
+msgstr ""
+
+#: classes/helpers/Operator.php:59
+msgid "Decrease by value (From regular)"
+msgstr ""
+
+#: classes/helpers/Operator.php:60
+msgid "Decrease by % (From regular)"
+msgstr ""
+
+#: classes/helpers/Operator.php:67 views/bulk_edit/filter_bar.php:16
+msgid "Like"
+msgstr ""
+
+#: classes/helpers/Operator.php:68 classes/repositories/Tab_Repository.php:439
+#: views/bulk_edit/filter_bar.php:19
+msgid "Exact"
+msgstr ""
+
+#: classes/helpers/Operator.php:69 views/bulk_edit/filter_bar.php:22
+msgid "Not"
+msgstr ""
+
+#: classes/helpers/Operator.php:70 views/bulk_edit/filter_bar.php:25
+msgid "Begin"
+msgstr ""
+
+#: classes/helpers/Operator.php:71 views/bulk_edit/filter_bar.php:28
+msgid "End"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:112
+msgid "Delete coupon"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:118
+msgid "Delete permanently"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:119
+msgid "Restore"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:234
+msgid "No Image"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:254
+#: classes/repositories/Tab_Repository.php:158
+#: classes/repositories/Tab_Repository.php:557
+#: classes/repositories/Tab_Repository.php:643
+#: classes/repositories/Tab_Repository.php:842
+#: classes/repositories/Tab_Repository.php:938 views/settings/main.php:58
+#: views/settings/main.php:69 views/settings/main.php:91
+msgid "Yes"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:315
+#: classes/repositories/Column.php:221 classes/repositories/Column.php:450
+#: classes/repositories/Column.php:451
+#: views/bulk_edit/columns_modals/products.php:6
+msgid "Products"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:320
+msgid "Categories"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:325
+#: classes/repositories/Column.php:376
+#: views/bulk_edit/columns_modals/used_by.php:6
+msgid "Used by"
+msgstr ""
+
+#: classes/providers/column/CouponColumnProvider.php:330
+#: classes/repositories/Column.php:385
+#: views/bulk_edit/columns_modals/used_in.php:6
+msgid "Used in"
+msgstr ""
+
+#: classes/repositories/Column.php:110
+#: classes/repositories/Tab_Repository.php:44
+#: classes/repositories/Tab_Repository.php:64
+#: classes/repositories/Tab_Repository.php:449
+msgid "Coupon Code"
+msgstr ""
+
+#: classes/repositories/Column.php:185 classes/repositories/Column.php:438
+#: classes/repositories/Column.php:439
+#: classes/repositories/Tab_Repository.php:94
+#: classes/repositories/Tab_Repository.php:463
+msgid "Description"
+msgstr ""
+
+#: classes/repositories/Column.php:194
+msgid "Published on"
+msgstr ""
+
+#: classes/repositories/Column.php:203
+msgid "Modification date"
+msgstr ""
+
+#: classes/repositories/Column.php:212 classes/repositories/Column.php:473
+#: classes/repositories/Column.php:474
+#: classes/repositories/Tab_Repository.php:166
+msgid "Coupon expiry date"
+msgstr ""
+
+#: classes/repositories/Column.php:230
+#: classes/repositories/Tab_Repository.php:269
+#: classes/repositories/Tab_Repository.php:666
+msgid "Exclude products"
+msgstr ""
+
+#: classes/repositories/Column.php:239
+msgid "Product categories"
+msgstr ""
+
+#: classes/repositories/Column.php:248
+#: classes/repositories/Tab_Repository.php:305
+#: classes/repositories/Tab_Repository.php:696
+msgid "Exclude categories"
+msgstr ""
+
+#: classes/repositories/Column.php:257 classes/repositories/Column.php:426
+#: classes/repositories/Column.php:427
+msgid "Coupon amount"
+msgstr ""
+
+#: classes/repositories/Column.php:266
+#: classes/repositories/Tab_Repository.php:189
+#: classes/repositories/Tab_Repository.php:590
+msgid "Minimum spend"
+msgstr ""
+
+#: classes/repositories/Column.php:275
+#: classes/repositories/Tab_Repository.php:207
+#: classes/repositories/Tab_Repository.php:609
+msgid "Maximum spend"
+msgstr ""
+
+#: classes/repositories/Column.php:284 classes/repositories/Column.php:462
+#: classes/repositories/Column.php:463
+#: classes/repositories/Tab_Repository.php:346
+#: classes/repositories/Tab_Repository.php:734
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: classes/repositories/Column.php:293
+#: classes/repositories/Tab_Repository.php:381
+#: classes/repositories/Tab_Repository.php:771
+msgid "Usage limit per user"
+msgstr ""
+
+#: classes/repositories/Column.php:302
+msgid "Usage limit to x items"
+msgstr ""
+
+#: classes/repositories/Column.php:311 classes/repositories/Column.php:414
+#: classes/repositories/Column.php:415
+#: classes/repositories/Tab_Repository.php:522
+msgid "Discount type"
+msgstr ""
+
+#: classes/repositories/Column.php:321
+#: classes/repositories/Tab_Repository.php:110
+#: classes/repositories/Tab_Repository.php:512
+msgid "Status"
+msgstr ""
+
+#: classes/repositories/Column.php:331
+#: classes/repositories/Tab_Repository.php:152
+#: classes/repositories/Tab_Repository.php:551
+msgid "Allow free shipping"
+msgstr ""
+
+#: classes/repositories/Column.php:340
+#: classes/repositories/Tab_Repository.php:225
+#: classes/repositories/Tab_Repository.php:628
+msgid "Individual use only"
+msgstr ""
+
+#: classes/repositories/Column.php:349
+#: classes/repositories/Tab_Repository.php:238
+#: classes/repositories/Tab_Repository.php:638
+msgid "Exclude sale items"
+msgstr ""
+
+#: classes/repositories/Column.php:358
+#: classes/repositories/Tab_Repository.php:323
+#: classes/repositories/Tab_Repository.php:711
+msgid "Allowed Emails"
+msgstr ""
+
+#: classes/repositories/Column.php:367
+msgid "Usage count"
+msgstr ""
+
+#: classes/repositories/Coupon.php:42
+msgid "Trash"
+msgstr ""
+
+#: classes/repositories/History.php:40
+msgid "Bulk Operation"
+msgstr ""
+
+#: classes/repositories/History.php:41
+msgid "Inline Operation"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:47
+msgid "TextInput"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:48
+msgid "TextArea"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:49
+msgid "Checkbox"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:50
+msgid "Radio"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:51
+msgid "Array"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:52
+msgid "Calendar"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:53 views/activation/main.php:26
+msgid "Email"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:54
+msgid "Password"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:55
+msgid "Url"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:56
+msgid "Image"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:57
+msgid "File"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:58
+msgid "Editor"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:90
+msgid "String"
+msgstr ""
+
+#: classes/repositories/Meta_Field.php:91
+msgid "Number"
+msgstr ""
+
+#: classes/repositories/Search.php:91
+msgid "All Coupons"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:33
+#: classes/repositories/Tab_Repository.php:413
+msgid "General"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:34
+#: classes/repositories/Tab_Repository.php:414
+msgid "Usage Restriction"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:35
+#: classes/repositories/Tab_Repository.php:415
+msgid "Usage Limits"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:36
+#: classes/repositories/Tab_Repository.php:416
+msgid "Custom Fields"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:43
+msgid "Variable"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:45 views/bulk_edit/filter_bar.php:11
+#: views/data_table/items.php:19 views/settings/main.php:39
+msgid "ID"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:68
+#: classes/repositories/Tab_Repository.php:98
+#: classes/repositories/Tab_Repository.php:138
+#: classes/repositories/Tab_Repository.php:193
+#: classes/repositories/Tab_Repository.php:211
+#: classes/repositories/Tab_Repository.php:350
+#: classes/repositories/Tab_Repository.php:368
+#: classes/repositories/Tab_Repository.php:385
+#: classes/repositories/Tab_Repository.php:437
+#: classes/repositories/Tab_Repository.php:453
+#: classes/repositories/Tab_Repository.php:467
+#: views/modals/numeric_calculator.php:13
+msgid "Select Operator"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:74
+msgid "Coupon Code ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:81
+#: classes/repositories/Tab_Repository.php:476 views/history/main.php:49
+msgid "Date"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:87
+msgid "Date ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:103
+#: classes/repositories/Tab_Repository.php:472
+msgid "Description ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:115
+#: classes/repositories/Tab_Repository.php:518
+msgid "Select Status ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:122
+msgid "Discount Type"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:127
+msgid "Select Discount Type ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:134
+#: classes/repositories/Tab_Repository.php:532
+msgid "Coupon Amount"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:144
+msgid "Coupon Amount ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:159
+#: classes/repositories/Tab_Repository.php:558
+#: classes/repositories/Tab_Repository.php:644
+#: classes/repositories/Tab_Repository.php:843
+#: classes/repositories/Tab_Repository.php:939 views/settings/main.php:61
+#: views/settings/main.php:72 views/settings/main.php:94
+msgid "No"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:172
+msgid "Coupon expiry date ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:199
+msgid "Minimum spend ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:217
+msgid "Maximum spend ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:230
+#: classes/repositories/Tab_Repository.php:243
+#: classes/repositories/Tab_Repository.php:261
+#: classes/repositories/Tab_Repository.php:279
+#: classes/repositories/Tab_Repository.php:297
+#: classes/repositories/Tab_Repository.php:315
+#: classes/repositories/Tab_Repository.php:329
+#: classes/repositories/Tab_Repository.php:633
+#: classes/repositories/Tab_Repository.php:646
+#: classes/repositories/Tab_Repository.php:661
+#: classes/repositories/Tab_Repository.php:676
+#: classes/repositories/Tab_Repository.php:691
+#: classes/repositories/Tab_Repository.php:706
+#: classes/repositories/Tab_Repository.php:720
+msgid "Upgrade to pro version"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:251
+#: classes/repositories/Tab_Repository.php:651
+msgid "Include products"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:259
+#: classes/repositories/Tab_Repository.php:659
+msgid "Include products ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:277
+#: classes/repositories/Tab_Repository.php:674
+msgid "Exclude products ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:287
+#: classes/repositories/Tab_Repository.php:681
+msgid "Include categories"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:295
+#: classes/repositories/Tab_Repository.php:689
+msgid "Include categories ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:313
+#: classes/repositories/Tab_Repository.php:704
+msgid "Exclude categories ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:327
+#: classes/repositories/Tab_Repository.php:718
+msgid "Allowed Emails ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:356
+msgid "Usage limit per coupon ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:364
+#: classes/repositories/Tab_Repository.php:753
+msgid "Limit usage to x items"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:374
+msgid "Limit usage to x items ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:391
+msgid "Usage limit per user ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:433
+msgid "Coupon ID(s)"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:445
+msgid "for example: 1,2,3 or 1-10 or 1,2,3|10-20"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:459
+msgid "Title ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:483
+#: classes/repositories/Tab_Repository.php:569
+msgid "Date From ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:490
+#: classes/repositories/Tab_Repository.php:576
+msgid "Date To ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:494
+msgid "Modified Date"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:501
+msgid "Modified Date From ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:508
+msgid "Modified Date To ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:528
+msgid "Discount type ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:539
+#: classes/repositories/Tab_Repository.php:597
+#: classes/repositories/Tab_Repository.php:616
+msgid "Amount From ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:546
+#: classes/repositories/Tab_Repository.php:604
+#: classes/repositories/Tab_Repository.php:623
+msgid "Amount To ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:562
+msgid "Expiry date"
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:741
+#: classes/repositories/Tab_Repository.php:760
+#: classes/repositories/Tab_Repository.php:778 views/history/main.php:50
+msgid "From ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:748
+#: classes/repositories/Tab_Repository.php:767
+#: classes/repositories/Tab_Repository.php:785 views/history/main.php:51
+msgid "To ..."
+msgstr ""
+
+#: classes/repositories/Tab_Repository.php:886
+#: classes/repositories/Tab_Repository.php:1009
+msgid ""
+"There is not any added Meta Fields, You can add new Meta Fields trough "
+"\"Meta Fields\" tab."
+msgstr ""
+
+#: views/activation/main.php:10
+msgid "Congratulations, Your plugin is activated successfully. Let's Go!"
+msgstr ""
+
+#: views/activation/main.php:30
+msgid "What is your industry?"
+msgstr ""
+
+#: views/activation/main.php:45
+msgid "Activate"
+msgstr ""
+
+#: views/activation/main.php:46
+msgid "Skip"
+msgstr ""
+
+#: views/alerts/wccbel_woocommerce_required.php:5
+msgid ""
+"\"iThemeland WooCommerce Bulk Coupons Editing\" Plugin needs \"WooCommerce\" "
+"Plugin, Please Install/Activate that."
+msgstr ""
+
+#: views/bulk_edit/bulk_edit_form.php:6
+msgid "Bulk Edit Form"
+msgstr ""
+
+#: views/bulk_edit/bulk_edit_form.php:122
+msgid "Do Bulk Edit"
+msgstr ""
+
+#: views/bulk_edit/bulk_edit_form.php:125
+msgid "Reset Form"
+msgstr ""
+
+#: views/bulk_edit/columns_modals/categories.php:6
+msgid "Product Categories"
+msgstr ""
+
+#: views/bulk_edit/columns_modals/categories.php:14
+#: views/bulk_edit/columns_modals/categories.php:15
+msgid "Select Categories"
+msgstr ""
+
+#: views/bulk_edit/columns_modals/categories.php:21
+#: views/bulk_edit/columns_modals/products.php:21
+#: views/column_manager/edit_preset.php:61 views/modals/column_profiles.php:107
+#: views/settings/main.php:105
+msgid "Save Changes"
+msgstr ""
+
+#: views/bulk_edit/columns_modals/categories.php:24
+#: views/bulk_edit/columns_modals/products.php:24
+#: views/bulk_edit/columns_modals/used_by.php:20
+#: views/bulk_edit/columns_modals/used_in.php:20
+msgid "Close"
+msgstr ""
+
+#: views/bulk_edit/columns_modals/products.php:14
+#: views/bulk_edit/columns_modals/products.php:15
+msgid "Select Products"
+msgstr ""
+
+#: views/bulk_edit/filter_bar.php:5
+msgid "Quick Search ..."
+msgstr ""
+
+#: views/bulk_edit/filter_bar.php:8
+msgid "Title"
+msgstr ""
+
+#: views/bulk_edit/filter_bar.php:39
+msgid "Status Filter"
+msgstr ""
+
+#: views/bulk_edit/filter_bar.php:40
+msgid "Statuses"
+msgstr ""
+
+#: views/bulk_edit/filter_form.php:7
+msgid "Filter Form"
+msgstr ""
+
+#: views/bulk_edit/filter_form.php:54
+msgid "Get Coupons"
+msgstr ""
+
+#: views/bulk_edit/filter_form.php:57 views/history/main.php:62
+msgid "Reset Filters"
+msgstr ""
+
+#: views/bulk_edit/filter_form.php:63
+msgid "Save Profile"
+msgstr ""
+
+#: views/bulk_edit/status_filters.php:3
+msgid "All"
+msgstr ""
+
+#: views/column_manager/edit_preset.php:9
+msgid "Edit Column Preset"
+msgstr ""
+
+#: views/column_manager/edit_preset.php:20 views/column_manager/main.php:72
+#: views/data_table/items.php:18 views/modals/column_profiles.php:38
+msgid "Select All"
+msgstr ""
+
+#: views/column_manager/edit_preset.php:22 views/column_manager/main.php:68
+msgid "Search Field ..."
+msgstr ""
+
+#: views/column_manager/edit_preset.php:50
+msgid "Profile name ..."
+msgstr ""
+
+#: views/column_manager/field_item.php:5
+msgid "Enter column title ..."
+msgstr ""
+
+#: views/column_manager/field_item.php:5
+msgid "Enter column title"
+msgstr ""
+
+#: views/column_manager/field_item.php:6
+msgid "Background Color"
+msgstr ""
+
+#: views/column_manager/field_item.php:7
+msgid "Select Background Color"
+msgstr ""
+
+#: views/column_manager/field_item.php:10
+msgid "Select Text Color"
+msgstr ""
+
+#: views/column_manager/main.php:6 views/navigation/buttons.php:86
+msgid "Column Manager"
+msgstr ""
+
+#: views/column_manager/main.php:15
+msgid ""
+"Mange columns of table. You can Create your customize presets and use them "
+"in column profile section."
+msgstr ""
+
+#: views/column_manager/main.php:18 views/modals/column_profiles.php:6
+msgid "Column Profiles"
+msgstr ""
+
+#: views/column_manager/main.php:27 views/modals/filter_profiles.php:18
+msgid "Profile Name"
+msgstr ""
+
+#: views/column_manager/main.php:28 views/history/main.php:85
+#: views/modals/filter_profiles.php:19
+msgid "Date Modified"
+msgstr ""
+
+#: views/column_manager/main.php:29 views/history/main.php:86
+#: views/modals/filter_profiles.php:21
+msgid "Actions"
+msgstr ""
+
+#: views/column_manager/main.php:46
+msgid "Edit"
+msgstr ""
+
+#: views/column_manager/main.php:66
+msgid "Create New Profile"
+msgstr ""
+
+#: views/column_manager/main.php:68
+msgid "Search Field"
+msgstr ""
+
+#: views/column_manager/main.php:104
+msgid "Save Preset"
+msgstr ""
+
+#: views/column_manager/main.php:108
+msgid "Please add your columns here"
+msgstr ""
+
+#: views/data_table/items.php:75 views/layouts/header.php:2
+msgid "Loading ..."
+msgstr ""
+
+#: views/data_table/items.php:88
+msgid "No Data Available!"
+msgstr ""
+
+#: views/history/history_items.php:54
+msgid "Revert"
+msgstr ""
+
+#: views/history/main.php:6 views/navigation/buttons.php:98
+#: views/navigation/buttons.php:106
+msgid "History"
+msgstr ""
+
+#: views/history/main.php:14
+msgid "List of your changes and possible to roll back to the previous data"
+msgstr ""
+
+#: views/history/main.php:23
+msgid "Operation"
+msgstr ""
+
+#: views/history/main.php:34 views/history/main.php:84
+msgid "Author"
+msgstr ""
+
+#: views/history/main.php:45 views/import_export/main.php:34
+msgid "Fields"
+msgstr ""
+
+#: views/history/main.php:58
+msgid "Apply Filters"
+msgstr ""
+
+#: views/history/main.php:69
+msgid "Clear History"
+msgstr ""
+
+#: views/history/main.php:76
+msgid "Column(s)"
+msgstr ""
+
+#: views/history/main.php:83
+msgid "History Name"
+msgstr ""
+
+#: views/import_export/main.php:6 views/navigation/buttons.php:125
+msgid "Import/Export"
+msgstr ""
+
+#: views/import_export/main.php:15
+msgid "Import/Export coupons as CSV files"
+msgstr ""
+
+#: views/import_export/main.php:23
+msgid "Coupons"
+msgstr ""
+
+#: views/import_export/main.php:26
+msgid "All Coupons In Table"
+msgstr ""
+
+#: views/import_export/main.php:30
+msgid "Only Selected coupons"
+msgstr ""
+
+#: views/import_export/main.php:37
+msgid "All Fields"
+msgstr ""
+
+#: views/import_export/main.php:41
+msgid "Only Visible Fields"
+msgstr ""
+
+#: views/import_export/main.php:45
+msgid "Delimiter"
+msgstr ""
+
+#: views/import_export/main.php:55
+msgid "Export Now"
+msgstr ""
+
+#: views/import_export/main.php:65
+msgid ""
+"If you have coupons in another system, you can import those into this site. "
+msgstr ""
+
+#: views/import_export/main.php:72
+msgid "Import Now"
+msgstr ""
+
+#: views/meta_field/main.php:6
+msgid "Meta Fields"
+msgstr ""
+
+#: views/meta_field/main.php:15
+msgid ""
+"You can add new coupons meta fields in two ways: 1- Individually 2- Get from "
+"other coupon."
+msgstr ""
+
+#: views/meta_field/main.php:23
+msgid "Manually"
+msgstr ""
+
+#: views/meta_field/main.php:25
+msgid "Enter Meta Key ..."
+msgstr ""
+
+#: views/meta_field/main.php:32
+msgid "Automatically From Coupon"
+msgstr ""
+
+#: views/meta_field/main.php:34
+msgid "Enter Coupon ID ..."
+msgstr ""
+
+#: views/meta_field/main.php:44
+msgid "Please add your meta key manually"
+msgstr ""
+
+#: views/meta_field/main.php:44
+msgid "OR"
+msgstr ""
+
+#: views/meta_field/main.php:44
+msgid "From another coupon"
+msgstr ""
+
+#: views/meta_field/main.php:57
+msgid "Save Fields"
+msgstr ""
+
+#: views/meta_field/meta_field_item.php:4
+msgid "Enter field title ..."
+msgstr ""
+
+#: views/meta_field/meta_field_item.php:11
+#: views/meta_field/meta_field_item.php:20
+msgid "Select Type"
+msgstr ""
+
+#: views/meta_field/meta_field_item.php:31
+msgid "key1=label1|key2=label2"
+msgstr ""
+
+#: views/meta_field/meta_field_item.php:34
+msgid "Drag"
+msgstr ""
+
+#: views/modals/column_profiles.php:16
+msgid ""
+"You can load saved column profile presets through Column Manager. You can "
+"change the columns and save your changes too."
+msgstr ""
+
+#: views/modals/column_profiles.php:19
+msgid "Choose Preset"
+msgstr ""
+
+#: views/modals/column_profiles.php:42
+msgid "Search"
+msgstr ""
+
+#: views/modals/column_profiles.php:43
+msgid "Search Column ..."
+msgstr ""
+
+#: views/modals/column_profiles.php:76
+msgid "Fields from certain third-party plugins"
+msgstr ""
+
+#: views/modals/column_profiles.php:103
+msgid "Apply To Table"
+msgstr ""
+
+#: views/modals/column_profiles.php:113
+msgid "Update selected preset"
+msgstr ""
+
+#: views/modals/column_profiles.php:116
+msgid "Save as new preset"
+msgstr ""
+
+#: views/modals/duplicate_item.php:6 views/navigation/buttons.php:29
+msgid "Duplicate"
+msgstr ""
+
+#: views/modals/duplicate_item.php:15
+msgid "Enter how many item(s) to Duplicate!"
+msgstr ""
+
+#: views/modals/duplicate_item.php:17 views/modals/new_item.php:15
+msgid "Number ..."
+msgstr ""
+
+#: views/modals/duplicate_item.php:23
+msgid "Start Duplicate"
+msgstr ""
+
+#: views/modals/file.php:6
+msgid "Select File"
+msgstr ""
+
+#: views/modals/file.php:16
+msgid "Choose File"
+msgstr ""
+
+#: views/modals/file.php:18
+msgid "Clear"
+msgstr ""
+
+#: views/modals/file.php:25 views/modals/image.php:24
+#: views/modals/numeric_calculator.php:23 views/modals/text_editor.php:18
+msgid "Apply Changes"
+msgstr ""
+
+#: views/modals/filter_profile_item.php:8
+msgid "Use it constantly"
+msgstr ""
+
+#: views/modals/filter_profiles.php:6
+msgid "Filter Profiles"
+msgstr ""
+
+#: views/modals/filter_profiles.php:20
+msgid "Use Always"
+msgstr ""
+
+#: views/modals/image.php:6
+msgid "Image Edit"
+msgstr ""
+
+#: views/modals/image.php:27
+msgid "Remove Image"
+msgstr ""
+
+#: views/modals/new_item.php:30
+msgid "Create"
+msgstr ""
+
+#: views/modals/numeric_calculator.php:6
+msgid "Calculator"
+msgstr ""
+
+#: views/modals/numeric_calculator.php:16
+msgid "replace"
+msgstr ""
+
+#: views/modals/numeric_calculator.php:18
+msgid "Enter Value ..."
+msgstr ""
+
+#: views/modals/numeric_calculator.php:18
+msgid "Value"
+msgstr ""
+
+#: views/modals/text_editor.php:6
+msgid "Content Edit"
+msgstr ""
+
+#: views/navigation/buttons.php:2
+msgid "Filter"
+msgstr ""
+
+#: views/navigation/buttons.php:8
+msgid "Quick Search"
+msgstr ""
+
+#: views/navigation/buttons.php:15
+msgid "Bulk Edit"
+msgstr ""
+
+#: views/navigation/buttons.php:21
+msgid "Bind Edit"
+msgstr ""
+
+#: views/navigation/buttons.php:35
+msgid "Reload"
+msgstr ""
+
+#: views/navigation/buttons.php:55
+msgid "Move to trash"
+msgstr ""
+
+#: views/navigation/buttons.php:61
+msgid "Permanently"
+msgstr ""
+
+#: views/navigation/buttons.php:67
+msgid "Delete All Coupons"
+msgstr ""
+
+#: views/navigation/buttons.php:74
+msgid "Column Profile"
+msgstr ""
+
+#: views/navigation/buttons.php:80
+msgid "Filter Profile"
+msgstr ""
+
+#: views/navigation/buttons.php:92
+msgid "Meta fields"
+msgstr ""
+
+#: views/navigation/buttons.php:112
+msgid "Undo"
+msgstr ""
+
+#: views/navigation/buttons.php:118
+msgid "Redo"
+msgstr ""
+
+#: views/navigation/buttons.php:131 views/settings/main.php:6
+msgid "Settings"
+msgstr ""
+
+#: views/navigation/buttons.php:137
+msgid "Reset Filter"
+msgstr ""
+
+#: views/navigation/buttons.php:151
+msgid "Restore Selected Items"
+msgstr ""
+
+#: views/navigation/buttons.php:157
+msgid "Restore All"
+msgstr ""
+
+#: views/navigation/buttons.php:163
+msgid "Delete Permanently"
+msgstr ""
+
+#: views/navigation/buttons.php:169
+msgid "Empty Trash"
+msgstr ""
+
+#: views/settings/main.php:17
+msgid "You can set bulk editor settings"
+msgstr ""
+
+#: views/settings/main.php:20
+msgid "Count Per Page"
+msgstr ""
+
+#: views/settings/main.php:36
+msgid "Default Sort By"
+msgstr ""
+
+#: views/settings/main.php:44
+msgid "Default Sort"
+msgstr ""
+
+#: views/settings/main.php:47
+msgid "ASC"
+msgstr ""
+
+#: views/settings/main.php:50
+msgid "DESC"
+msgstr ""
+
+#: views/settings/main.php:55
+msgid "Close popup after applying"
+msgstr ""
+
+#: views/settings/main.php:66
+msgid "Sticky 'ID' & 'Coupon Code' Columns"
+msgstr ""
+
+#: views/settings/main.php:77
+msgid "Display Columns Label"
+msgstr ""
+
+#: views/settings/main.php:80
+msgid "Completely"
+msgstr ""
+
+#: views/settings/main.php:83
+msgid "In short"
+msgstr ""
+
+#: views/settings/main.php:88
+msgid "Keep filled data in bulk edit form"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "iThemeland WooCommerce Bulk Coupons Editing Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ithemelandco.com/plugins/woocommerce-bulk-coupons-editing"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Editing Date in WordPress is very painful. Be professionals with managing "
+"data in the reliable and flexible way by WooCommerce Bulk Coupon Editor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "iThemelandco"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ithemelandco.com"
+msgstr ""
